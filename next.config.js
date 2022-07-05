@@ -2,7 +2,8 @@
 const nextConfig = {
   reactStrictMode: true,
   images:{
-    domains: ['whatifgaming.com']
+    domains: ['whatifgaming.com',
+      "lh3.googleusercontent.com"]
   }
 }
 
